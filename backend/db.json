@@ -1,0 +1,427 @@
+{
+  "users": [
+    {
+      "username": "rana",
+      "email": "rana@gmail.com",
+      "password": "1122",
+      "id": "MNybLz3T-MA"
+    },
+    {
+      "username": "demo",
+      "email": "demo123@gmail.com",
+      "password": "1122",
+      "id": "olNEIibuVXs"
+    },
+    {
+      "username": "sunny",
+      "email": "sunny123@gmail.com",
+      "password": "1122",
+      "id": "s_Iw9TXmC_E"
+    },
+    {
+      "username": "sunny123",
+      "email": "sunny123@gmail.com",
+      "password": "1122",
+      "id": "92-BJKYlS3s"
+    },
+    {
+      "username": "aman",
+      "email": "aman@gmail.com",
+      "password": "aman",
+      "id": "yYioPJdltAc"
+    },
+    {
+      "username": "akash1234",
+      "email": "akashking123@gmail.com",
+      "password": "1122",
+      "id": "uWLxM9hxaf8"
+    },
+    {
+      "username": "prashhant0",
+      "email": "kashyapprashant62@gmail.com",
+      "password": "1212",
+      "id": "psm2m-e34v8"
+    }
+  ],
+  "employee": [
+    {
+      "id": "EMP001",
+      "firstname": "Rana",
+      "lastname": "Pratap",
+      "email": "rana.pratap@example.com",
+      "age": "23",
+      "designation": "Frontend Developer",
+      "doj": "2025-01-15"
+    },
+    {
+      "id": "EMP002",
+      "firstname": "Amit",
+      "lastname": "Sharma",
+      "email": "amit.sharma@example.com",
+      "age": "25",
+      "designation": "Backend Developer",
+      "doj": "2024-11-20"
+    },
+    {
+      "id": "EMP003",
+      "firstname": "Rahul",
+      "lastname": "Verma",
+      "email": "rahul.verma@example.com",
+      "age": "24",
+      "designation": "MERN Developer",
+      "doj": "2025-03-10"
+    },
+    {
+      "id": "EMP004",
+      "firstname": "Priya",
+      "lastname": "Singh",
+      "email": "priya.singh@example.com",
+      "age": "22",
+      "designation": "UI Designer",
+      "doj": "2025-04-18"
+    },
+    {
+      "id": "EMP005",
+      "firstname": "Neha",
+      "lastname": "Gupta",
+      "email": "neha.gupta@example.com",
+      "age": "26",
+      "designation": "HR Executive",
+      "doj": "2023-09-11"
+    },
+    {
+      "id": "EMP006",
+      "firstname": "Akash",
+      "lastname": "Kumar",
+      "email": "akash.kumar@example.com",
+      "age": "24",
+      "designation": "Software Engineer",
+      "doj": "2024-05-25"
+    },
+    {
+      "id": "EMP007",
+      "firstname": "Rohit",
+      "lastname": "Yadav",
+      "email": "rohit.yadav@example.com",
+      "age": "27",
+      "designation": "QA Engineer",
+      "doj": "2023-10-08"
+    },
+    {
+      "id": "EMP008",
+      "firstname": "Pooja",
+      "lastname": "Mishra",
+      "email": "pooja.mishra@example.com",
+      "age": "23",
+      "designation": "React Developer",
+      "doj": "2025-06-02"
+    },
+    {
+      "id": "EMP009",
+      "firstname": "Ankit",
+      "lastname": "Jain",
+      "email": "ankit.jain@example.com",
+      "age": "28",
+      "designation": "Project Manager",
+      "doj": "2022-08-14"
+    },
+    {
+      "id": "EMP010",
+      "firstname": "Sneha",
+      "lastname": "Roy",
+      "email": "sneha.roy@example.com",
+      "age": "24",
+      "designation": "Node.js Developer",
+      "doj": "2024-12-01"
+    },
+    {
+      "id": "EMP011",
+      "firstname": "Karan",
+      "lastname": "Malhotra",
+      "email": "karan.malhotra@example.com",
+      "age": "29",
+      "designation": "Tech Lead",
+      "doj": "2022-02-16"
+    },
+    {
+      "id": "EMP012",
+      "firstname": "Simran",
+      "lastname": "Kaur",
+      "email": "simran.kaur@example.com",
+      "age": "25",
+      "designation": "Business Analyst",
+      "doj": "2023-04-19"
+    },
+    {
+      "id": "EMP013",
+      "firstname": "Vikas",
+      "lastname": "Pandey",
+      "email": "vikas.pandey@example.com",
+      "age": "26",
+      "designation": "Java Developer",
+      "doj": "2024-07-21"
+    },
+    {
+      "id": "EMP014",
+      "firstname": "Megha",
+      "lastname": "Saxena",
+      "email": "megha.saxena@example.com",
+      "age": "23",
+      "designation": "React Developer",
+      "doj": "2025-05-11"
+    },
+    {
+      "id": "EMP015",
+      "firstname": "Arjun",
+      "lastname": "Rana",
+      "email": "arjun.rana@example.com",
+      "age": "24",
+      "designation": "Backend Developer",
+      "doj": "2024-06-10"
+    },
+    {
+      "id": "EMP016",
+      "firstname": "Nisha",
+      "lastname": "Chauhan",
+      "email": "nisha.chauhan@example.com",
+      "age": "27",
+      "designation": "Frontend Developer",
+      "doj": "2023-12-09"
+    },
+    {
+      "id": "EMP017",
+      "firstname": "Deepak",
+      "lastname": "Soni",
+      "email": "deepak.soni@example.com",
+      "age": "25",
+      "designation": "DevOps Engineer",
+      "doj": "2024-01-05"
+    },
+    {
+      "id": "EMP018",
+      "firstname": "Ritika",
+      "lastname": "Kapoor",
+      "email": "ritika.kapoor@example.com",
+      "age": "24",
+      "designation": "UI/UX Designer",
+      "doj": "2025-02-22"
+    },
+    {
+      "id": "EMP019",
+      "firstname": "Sachin",
+      "lastname": "Kumar",
+      "email": "sachin.kumar@example.com",
+      "age": "23",
+      "designation": "Software Engineer",
+      "doj": "2025-07-10"
+    },
+    {
+      "id": "EMP020",
+      "firstname": "Aisha",
+      "lastname": "Ali",
+      "email": "aisha.ali@example.com",
+      "age": "26",
+      "designation": "Data Analyst",
+      "doj": "2023-06-15"
+    },
+    {
+      "id": "EMP021",
+      "firstname": "Harsh",
+      "lastname": "Patel",
+      "email": "harsh.patel@example.com",
+      "age": "24",
+      "designation": "React Developer",
+      "doj": "2024-08-17"
+    },
+    {
+      "id": "EMP022",
+      "firstname": "Komal",
+      "lastname": "Arora",
+      "email": "komal.arora@example.com",
+      "age": "25",
+      "designation": "HR Executive",
+      "doj": "2023-11-29"
+    },
+    {
+      "id": "EMP023",
+      "firstname": "Mohit",
+      "lastname": "Singh",
+      "email": "mohit.singh@example.com",
+      "age": "28",
+      "designation": "QA Engineer",
+      "doj": "2022-09-18"
+    },
+    {
+      "id": "EMP024",
+      "firstname": "Isha",
+      "lastname": "Verma",
+      "email": "isha.verma@example.com",
+      "age": "22",
+      "designation": "Frontend Developer",
+      "doj": "2025-01-30"
+    },
+    {
+      "id": "EMP025",
+      "firstname": "Gaurav",
+      "lastname": "Shukla",
+      "email": "gaurav.shukla@example.com",
+      "age": "29",
+      "designation": "Full Stack Developer",
+      "doj": "2022-05-12"
+    },
+    {
+      "id": "EMP026",
+      "firstname": "Kriti",
+      "lastname": "Joshi",
+      "email": "kriti.joshi@example.com",
+      "age": "23",
+      "designation": "React Developer",
+      "doj": "2025-03-27"
+    },
+    {
+      "id": "EMP027",
+      "firstname": "Yash",
+      "lastname": "Agarwal",
+      "email": "yash.agarwal@example.com",
+      "age": "26",
+      "designation": "Node.js Developer",
+      "doj": "2024-04-14"
+    },
+    {
+      "id": "EMP028",
+      "firstname": "Tanvi",
+      "lastname": "Sharma",
+      "email": "tanvi.sharma@example.com",
+      "age": "24",
+      "designation": "Software Engineer",
+      "doj": "2024-10-06"
+    },
+    {
+      "id": "EMP029",
+      "firstname": "Manish",
+      "lastname": "Raj",
+      "email": "manish.raj@example.com",
+      "age": "27",
+      "designation": "Backend Developer",
+      "doj": "2023-07-24"
+    },
+    {
+      "id": "EMP030",
+      "firstname": "Anjali",
+      "lastname": "Yadav",
+      "email": "anjali.yadav@example.com",
+      "age": "25",
+      "designation": "Frontend Developer",
+      "doj": "2024-09-08"
+    },
+    {
+      "id": "EMP031",
+      "firstname": "Nitin",
+      "lastname": "Gupta",
+      "email": "nitin.gupta@example.com",
+      "age": "30",
+      "designation": "Team Lead",
+      "doj": "2021-12-15"
+    },
+    {
+      "id": "EMP032",
+      "firstname": "Payal",
+      "lastname": "Singh",
+      "email": "payal.singh@example.com",
+      "age": "23",
+      "designation": "UI Designer",
+      "doj": "2025-05-19"
+    },
+    {
+      "id": "EMP033",
+      "firstname": "Abhishek",
+      "lastname": "Dubey",
+      "email": "abhishek.dubey@example.com",
+      "age": "26",
+      "designation": "Java Developer",
+      "doj": "2024-03-13"
+    },
+    {
+      "id": "EMP034",
+      "firstname": "Riya",
+      "lastname": "Mishra",
+      "email": "riya.mishra@example.com",
+      "age": "22",
+      "designation": "React Developer",
+      "doj": "2025-06-01"
+    },
+    {
+      "id": "EMP035",
+      "firstname": "Shubham",
+      "lastname": "Kumar",
+      "email": "shubham.kumar@example.com",
+      "age": "24",
+      "designation": "Backend Developer",
+      "doj": "2024-11-16"
+    },
+    {
+      "id": "EMP036",
+      "firstname": "Muskan",
+      "lastname": "Verma",
+      "email": "muskan.verma@example.com",
+      "age": "23",
+      "designation": "HR Executive",
+      "doj": "2025-02-08"
+    },
+    {
+      "id": "EMP037",
+      "firstname": "Aditya",
+      "lastname": "Sharma",
+      "email": "aditya.sharma@example.com",
+      "age": "27",
+      "designation": "DevOps Engineer",
+      "doj": "2023-08-21"
+    },
+    {
+      "id": "EMP038",
+      "firstname": "Sanya",
+      "lastname": "Kapoor",
+      "email": "sanya.kapoor@example.com",
+      "age": "24",
+      "designation": "Frontend Developer",
+      "doj": "2025-04-04"
+    },
+    {
+      "id": "EMP039",
+      "firstname": "Rohan",
+      "lastname": "Mehta",
+      "email": "rohan.mehta@example.com",
+      "age": "25",
+      "designation": "MERN Developer",
+      "doj": "2024-06-30"
+    },
+    {
+      "id": "EMP040",
+      "firstname": "Kavya",
+      "lastname": "Sinha",
+      "email": "kavya.sinha@example.com",
+      "age": "23",
+      "designation": "Software Engineer",
+      "doj": "2025-07-01"
+    },
+    {
+      "firstname": "vivan",
+      "lastname": "kumar",
+      "email": "vivankumar132@gmail.com",
+      "age": "23",
+      "doj": "2026-05-01",
+      "designation": "Side Engneer",
+      "id": "Yfstb4q8IaI"
+    },
+    {
+      "firstname": "Prashant",
+      "lastname": "Kashyap",
+      "email": "kashyapprashant62@gmail.com",
+      "age": "23",
+      "doj": "2026-07-16",
+      "designation": "frontend",
+      "id": "9RwjbnIB4LU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
